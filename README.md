@@ -26,10 +26,14 @@
 ### Click to open de full video
 <table style="width:100%">
 <tr>
-    <td style="width:50%">
+    <td style="width: 50%;
+    text-align: center;
+    border-color: cadetblue;">
         <a href="https://res.cloudinary.com/elderlk/video/upload/v1572317552/demonstration_tracking_babgy9.mp4"><img src="https://res.cloudinary.com/elderlk/image/upload/v1572317734/demonstration_tracking_pnbjtw.gif" alt="Build Status"></a>
     </td>
-    <td>
+    <td style="width: 50%;
+    text-align: center;
+    border-color: cadetblue;">
         <a href="https://res.cloudinary.com/elderlk/video/upload/v1575841711/tracking_line_projeto_one_o438tc.mp4"><img src="https://res.cloudinary.com/elderlk/image/upload/v1575842128/tracking_line_projeto_one_gif_oxya68.gif" alt="Build Status"></a>
     </td>
 </tr>
